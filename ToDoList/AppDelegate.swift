@@ -15,8 +15,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        // call this function
         // Override point for customization after application launch.
-        // Doh... helloadfadf
+        // Doh... dada
         return true
     }
 
